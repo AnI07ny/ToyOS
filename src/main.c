@@ -1,8 +1,8 @@
-#include<stdio>
+#include<stdio.h>
 
 int main(void)
 {
-	printf("hello ToyOS!!!")
+	printf("hello ToyOS!!!");
 	
 	return 0;
 
